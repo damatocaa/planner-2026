@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "damatocaa.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "damatocaa.github",
+  "start_url": "/planner-2026",
+  "theme_color": "#ffffff"
+}
